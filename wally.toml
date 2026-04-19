@@ -1,5 +1,5 @@
 [package]
-name = "bohraz/arch"
+name = "kvyuaiss/arch"
 description = "A robust state machine library for Roblox, offering hierarchical state support, event-driven transitions, and seamless conflict resolution."
 license = "MIT"
 realm = "shared"
